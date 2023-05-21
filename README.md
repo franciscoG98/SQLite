@@ -1,2 +1,3 @@
 # SQLite
-sqlite practise
+
+This projects is a SQLite practise from a edX course
